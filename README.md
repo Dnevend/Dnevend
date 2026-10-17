@@ -32,7 +32,7 @@ and products that hold up in production.
 
 <img height="165" src="https://streak-stats.demolab.com?user=Dnevend&hide_border=true&theme=transparent" alt="Streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dnevend&bg_color=00000000&color=2f81f7&line=2f81f7&point=0969da&area=true&hide_border=true&days=90" alt="Activity graph" />
+<img width="95%" src="https://ghchart.rshah.org/2f81f7/Dnevend" alt="Contribution chart" />
 
 </div>
 
