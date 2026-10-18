@@ -32,8 +32,6 @@ and products that hold up in production.
 
 <img height="165" src="https://streak-stats.demolab.com?user=Dnevend&hide_border=true&theme=transparent" alt="Streak" />
 
-<img width="95%" src="https://ghchart.rshah.org/2f81f7/Dnevend" alt="Contribution chart" />
-
 </div>
 
 <div align="center">
