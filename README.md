@@ -2,7 +2,7 @@
 
 ### Hi, I'm Dnevend 👋
 
-**Full-stack & Web3 Developer** · Hangzhou, China
+**Full-stack & Web3 Developer** · Huzhou, China
 
 <sub>无限风光在险峰</sub>
 
@@ -21,9 +21,14 @@
 
 </div>
 
+<div align="center">
+全栈开发者，涉足 Web3 与现代 Web 技术；关注系统设计、接口质量，以及能在生产环境站得住的产品。
+<br/>
 Full-stack developer working across Web3 and modern web — focused on system design, clean APIs,
 and products that hold up in production.
-全栈开发者，涉足 Web3 与现代 Web 技术；关注系统设计、接口质量，以及能在生产环境站得住的产品。
+</div>
+
+<br/><br/>
 
 <div align="center">
 
