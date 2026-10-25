@@ -33,13 +33,3 @@ and products that hold up in production.
 <img height="165" src="https://streak-stats.demolab.com?user=Dnevend&hide_border=true&theme=transparent" alt="Streak" />
 
 </div>
-
-<div align="center">
-
-### 📝 Writing
-
-移动端调试指南 &nbsp;·&nbsp; Telegram 支付机器人开发小记 &nbsp;·&nbsp; 视差滚动实践 &nbsp;·&nbsp; 为革命保护「视」力
-
-more on **[dnevend.site/blog](https://dnevend.site/blog)**
-
-</div>
