@@ -13,6 +13,8 @@ Full-stack developer with an interest in technology, the humanities, blockchain,
 <br/>
 
 [![ClassyGit](https://classygit.pages.dev/badge/dnevend.svg?theme=mac)](https://classygit.pages.dev/dnevend)
+[![ClassyGit](https://classygit.pages.dev/badge/dnevend.svg?theme=win98)](https://classygit.pages.dev/dnevend)
+[![ClassyGit](https://classygit.pages.dev/badge/dnevend.svg?theme=tui)](https://classygit.pages.dev/dnevend)
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
