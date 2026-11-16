@@ -24,8 +24,5 @@ Full-stack developer with an interest in technology, the humanities, blockchain,
 <br/>
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dnevend&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
 <img height="165" src="https://streak-stats.demolab.com?user=Dnevend&hide_border=true&theme=transparent" alt="Streak" />
-
 </div>
