@@ -1,6 +1,6 @@
 <div align="center">
 
-Full-stack Developer · [About Me](https://dnevend.site/about)
+Full-stack Developer · <a href="https://dnevend.site/about" target="_blank">About Me</a>
 
 <div align="center">
 全栈开发者，关注技术、人文、区块链及前沿AI应用。
