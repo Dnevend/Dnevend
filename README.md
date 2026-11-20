@@ -2,7 +2,7 @@
 
 ### Hi, I'm [Dnevend](https://dnevend.site/about) 👋
 
-**Full-stack & Web3 Developer** · Huzhou, China
+Full-stack & Web3 Developer · Huzhou, China
 
 <div align="center">
 全栈开发者，关注技术、人文、区块链及前沿AI应用。
