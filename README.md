@@ -1,13 +1,11 @@
 <div align="center">
 
-### Hi, I'm [Dnevend](https://dnevend.site/about) 👋
-
-Full-stack & Web3 Developer · Huzhou, China
+Full-stack Developer · [About Me](https://dnevend.site/about)
 
 <div align="center">
 全栈开发者，关注技术、人文、区块链及前沿AI应用。
 <br/>
-Full-stack developer with an interest in technology, the humanities, blockchain, and cutting-edge AI applications.
+Focusing on technology, the humanities, blockchain, and cutting-edge AI applications
 </div>
 
 <br/>
